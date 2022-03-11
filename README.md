@@ -23,7 +23,7 @@
 
 - We do not take any responsibility for anything happening.
 - You might get suspended.
-- Contact Janipalen#1234 for errors.
+- Contact Janipalen#1000 for errors.
 - If you're pasting multiple tokens, this is a one time use, after the token has joined your server it'll get a warning from discord so do this once!
 
 # How To Edit
